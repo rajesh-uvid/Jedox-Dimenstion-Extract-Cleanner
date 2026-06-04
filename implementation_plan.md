@@ -1,5 +1,7 @@
 # Streamlit Excel and CSV Data Cleaner App
 
+
+
 Create a responsive and visually premium Streamlit application that allows users to upload Excel (`.xlsx`, `.xls`) or CSV (`.csv`) files, automatically applies two specific cleaning rules, previews the comparison between original and cleaned data, and exports the results as a new Excel file.
 
 ## Cleaning Rules
